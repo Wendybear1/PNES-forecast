@@ -1,2 +1,2 @@
 # PNES-forecast
-PhD program study2
+PhD program study 2
